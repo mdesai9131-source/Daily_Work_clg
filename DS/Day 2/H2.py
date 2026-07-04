@@ -2,7 +2,7 @@
 
 price = [70000, 90000, 50000, 80000, 89000, 51500, 40000]
 
-price.sort()          # Sort the list first
+price.sort()         
 
 print(price)
 
