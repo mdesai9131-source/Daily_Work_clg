@@ -1,0 +1,7 @@
+P_Id,P_Name,Category,Branch ,City ,Sales ,Profit
+101,Pent,Clothing,a,Surat,15000,10000
+102,Shirt,Clothing,b,Surendrnagar,10000,5000
+103,T-Shirt,Clothing,a,Ahmedabad,20000,4000
+104,Tv,Electronic,b,Surat,50000,15000
+105,Phone,Electronic,a,Surendrnagar,41000,45000
+106,Tablet,Electronic,b,Ahmedabad,4500,500
