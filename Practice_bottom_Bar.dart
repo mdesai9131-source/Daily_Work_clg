@@ -31,9 +31,24 @@ class _PracticeDemoState extends State<PracticeDemo> {
       body: Column(
         children: [
           Card(
-            child: ,
+            child: Card(
+              // child: ,
+            ),
             color: Colors.green,
           ),
+          Column(
+            children: [
+              Container(
+                height: 400,
+                width: 400,
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(30),
+                  color: Colors.greenAccent,
+                ),
+                
+              )
+            ],
+          )
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(
